@@ -1,6 +1,6 @@
 ﻿
 # define the target folder and output file
-$target = "G:\"
+$target = "F:\.mega.io\"
 $output = "I:\books.txt"
 
 # get files in target folder and its subfolders
